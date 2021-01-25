@@ -100,7 +100,7 @@ For the average house-flipper, their main goal is probably to buy houses, fix th
 *Correlation Coefficient: 38,020*
 The data given indicated a house's "view" from 0 to 4 while describing it as an indicator of whether a house had been viewed. From here, the assumption was made that the view category measured the number of times a home had been viewed. Below is the graph showing home prices for each view number:
 
-![view_actual.png](./plots/view_actual.png)
+![view_act.png](./plots/view_act.png)
 
 The useful thing about choosing to improve views is that there will be no maintenance costs because no work is being done on the home. Hosting more open houses is an easy way to generate exposure to potential buyers and potentially increasing the future sale price.
 
